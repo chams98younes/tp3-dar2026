@@ -110,17 +110,17 @@ Après chaque opération calculée, le compteur est incrémenté et sa nouvelle 
 
 **Serveur calculatrice :**
 
-![Serveur calculatrice](captures/Capture d'écran 2026-10-30 140238.png)
+![Serveur calculatrice](captures/servCal.png)
 
 **Clients et résultats :**
 
-![Clients calculatrice](captures/Capture d'écran 2026-10-30 135928.png)
-![Clients calculatrice](captures/Capture d'écran 2026-10-30 135941.png)
+![Clients calculatrice](captures/clientCal.png)
+![Clients calculatrice](captures/clientCal2.png)
 
 **Compteur global :**
 
-![Compteur global](captures/Capture d'écran 2026-10-30 140419.png)
-![Compteur global](captures/Capture d'écran 2026-10-30 140442.png)
+![Compteur global](captures/clientPro.png)
+![Compteur global](captures/clientPro2.png)
 
 ## 5. Technologies utilisées
 
